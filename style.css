@@ -1,0 +1,35 @@
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    background-color: #ED7B7B;
+}
+#opponent-choice{
+    width:290px;
+    height:175px;
+    /* background-color: aqua; */
+   /* // border :2px solid black; */
+    background-color: #E19898;
+    margin-top: 5px;
+}
+h1{
+    color: #322653;
+}
+#your-choice{
+    width:290px;
+    height:175px;
+    /* background-color: aqua; */
+    background-color: #E19898;
+    margin-top: 5px;
+}
+#choices{
+    width:290px;
+    height: 80px;
+   /* // background-color: green; */
+    margin:0 auto;
+    margin-top:5px;
+
+}
+#choices img{
+width:80px;
+height:80px;
+}
